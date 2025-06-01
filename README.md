@@ -1,6 +1,6 @@
 # 💫 About Me
 <div align="center">
-  <h2>👋 Hi, I’m <strong>DEVENDHIRAN</strong>!</h2>
+  <h1>👋 Hi, I’m <strong>DEVENDHIRAN</strong></h1>
   <p align="left">
     🚀 Aspiring Full Stack Developer & 3D Designer<br>
     🎨 Passionate about creating stunning web experiences and designing 3D objects.<br>
