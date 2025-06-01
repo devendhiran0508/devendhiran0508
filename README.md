@@ -92,7 +92,9 @@
 
 # 👀 Profile Views
 <div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=devendhiran0508&icon=7&color=0" alt="Profile Views" />
-  </a>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=devendhiran0508&label=Profile%20views&color=0e75b6&style=flat" alt="devendhiran0508" /> </p>
 </div>
+
+<!--<a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=devendhiran0508&icon=7&color=0" alt="Profile Views" />
+  </a>-->
